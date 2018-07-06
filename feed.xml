@@ -3,10 +3,27 @@
     <title>Portfolio</title>
     <link href="https://chriskrj.github.io/Portfolio/feed.xml" rel="self" />
     <link href="https://chriskrj.github.io/Portfolio" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2018-07-06T14:40:06+02:00</updated>
     <author>
         <name>Christopher Krawietz</name>
     </author>
     <id>https://chriskrj.github.io/Portfolio</id>
 
+    <entry>
+        <title>First Post</title>
+        <author>
+            <name>Christopher Krawietz</name>
+        </author>
+        <link href="https://chriskrj.github.io/Portfolio/first-post/"/>
+        <id>https://chriskrj.github.io/Portfolio/first-post/</id>
+
+        <updated>2018-07-06T14:40:01+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://chriskrj.github.io/Portfolio/media/posts/1/" alt="" />
+                Das ist mein erster Post auf meiner Webseite gemacht mit Pubii
+            ]]>
+        </content>
+    </entry>
 </feed>
